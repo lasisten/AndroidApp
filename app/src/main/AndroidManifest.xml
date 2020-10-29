@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--comment-->
 <!-- Manifest is the first thing android will look at to decide what the app will do, any action that i write out for the app to do will be affect this file  -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.firstapp">
